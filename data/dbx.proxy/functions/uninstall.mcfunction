@@ -2,8 +2,8 @@
 scoreboard objectives remove proxy
 
 ##Systems
-#Template
-function dbx.proxy:system/template/uninstall
+#Osric
+function dbx.proxy:system/osric/uninstall
 
 ##Display message
 tellraw @s ["",{"text":"MC Plural Proxy datapack ready for removal.","color":"green"}]

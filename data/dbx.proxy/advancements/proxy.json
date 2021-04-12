@@ -1,7 +1,7 @@
 {
     "display": {
         "title": "Plural Proxy",
-        "description": "A simple datapack for proxying messages",
+        "description": "A simple datapack for proxying messages\n\nCurrent Systems\nOsric (V1.3)",
         "icon": {
             "item": "armor_stand"
         },
