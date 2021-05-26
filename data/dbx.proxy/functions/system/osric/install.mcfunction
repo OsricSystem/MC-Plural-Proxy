@@ -20,6 +20,10 @@ team modify dbx.p.osric.osri color dark_red
 team add dbx.p.osric.tayt
 team modify dbx.p.osric.tayt prefix {"text":"Tayto | ","color":"#F9893C"}
 team modify dbx.p.osric.tayt color dark_purple
+#   Rey
+team add dbx.p.osric.rey
+team modify dbx.p.osric.rey prefix {"text":"Rey | ","color":"#F9893C"}
+team modify dbx.p.osric.rey color dark_purple
 #   Fuzzy
 team add dbx.p.osric.fuzz
 team modify dbx.p.osric.fuzz prefix {"text":"Fuzzy | ","color":"#F9893C"}

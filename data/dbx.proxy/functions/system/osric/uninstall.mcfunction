@@ -12,6 +12,8 @@ team remove dbx.p.osric.osri
 # Tayto Subsystem
 #   Tayto
 team remove dbx.p.osric.tayt
+#   Rey
+team remove dbx.p.osric.rey
 #   Fuzzy
 team remove dbx.p.osric.fuzz
 
